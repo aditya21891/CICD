@@ -1,7 +1,8 @@
 #! /bin/bash
 # program for loop
-for ((i=1; i <=10 ; i++ ))
+for ((i=1; i <=10 ; i++ ));
 do
-echo $i
+echo "Hello world" >> new.txt
+
 done
 

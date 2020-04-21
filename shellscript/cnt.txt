@@ -1,0 +1,15 @@
+total 72
+drwxr-xr-x   5 adityapratti  staff  160 Mar 11 15:25 ..
+-rwxr-xr-x   1 adityapratti  staff  234 Mar 11 15:25 compare2num.sh
+-rwxr-xr-x   1 adityapratti  staff  171 Mar 11 15:25 evenodd.sh
+-rwxr-xr-x   1 adityapratti  staff   76 Mar 11 15:25 forlopex.sh
+-rw-r--r--   1 adityapratti  staff   97 Mar 11 15:25 script.sh
+-rwxr-xr-x   1 adityapratti  staff   89 Mar 11 15:25 whilelopex.sh
+-rwxr-xr-x   1 adityapratti  staff  360 Mar 11 15:26 caseex.sh
+-rwxr-x---   1 adityapratti  staff  171 Mar 11 20:01 loop.sh
+-rwxr-xr-x   1 adityapratti  staff  283 Apr 13 20:08 login.sh
+-rwxr--r--   1 adityapratti  staff  158 Apr 14 18:34 user.sh
+-rw-r--r--   1 adityapratti  staff    0 Apr 14 18:35 adi_file
+-rwxr--r--   1 adityapratti  staff    0 Apr 16 08:12 filecount.sh
+-rw-r--r--   1 adityapratti  staff    0 Apr 16 09:09 cnt.txt
+drwxr-xr-x  14 adityapratti  staff  448 Apr 16 09:09 .
